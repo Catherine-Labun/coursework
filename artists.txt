@@ -1,0 +1,50 @@
+0,Edvard Munch
+1,Henri Rousseau
+2,Henri Matisse
+3,Pablo Picasso
+4,Piet Mondrian
+5,Jackson Pollock
+6,Edgar Degas
+7,Pierre-Auguste Renoir
+8,Francisco Goya
+9,Vincent van Gogh
+10,Paul Gauguin
+11,Marc Chagall
+12,Sandro Botticelli
+13,Mikhail Vrubel
+14,Frida Kahlo
+15,Albrecht Durer
+16,Gustave Courbet
+17,Michelangelo
+18,Claude Monet
+19,Amedeo Modigliani
+20,Salvador Dali
+21,Peter Paul Rubens
+22,El Greco
+23,Henri de Toulouse-Lautrec
+24,Caravaggio
+25,Giotto di Bondone
+26,Eugene Delacroix
+27,Alfred Sisley
+28,Georges Seurat
+29,Diego Rivera
+30,Rembrandt
+31,Leonardo da Vinci
+32,Raphael
+33,Vasiliy Kandinskiy
+34,Andy Warhol
+35,Edouard Manet
+36,Camille Pissarro
+37,Hieronymus Bosch
+38,Rene Magritte
+39,Andrei Rublev
+40,Kazimir Malevich
+41,William Turner
+42,Diego Velazquez
+43,Gustav Klimt
+44,Pieter Bruegel
+45,Jan van Eyck
+46,Paul Cezanne
+47,Titian
+48,Joan Miro
+49,Paul Klee
